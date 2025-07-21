@@ -71,6 +71,6 @@ We converted each song into **two types of images**:
 ### 📈 Training Curves
 Accuracy & Loss 
 | Mel-Spectrogram | MFCC |
-|------------------|
-| ![Training Graph](image/Mel-ViT.png) | ![Training Graph](image/Mel-ViT.png)|
+|------------------|------|
+| ![Training Graph](image/Mel-ViT.png) | ![Training Graph](image/Mel-ViT.png) |
 
