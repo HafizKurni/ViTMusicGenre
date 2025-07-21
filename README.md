@@ -61,7 +61,7 @@ We converted each song into **two types of images**:
 
 | Mel-Spectrogram | MFCC |
 |------------------|------|
-| ![Mel CM](.image/CM-Mel-ViT.png) | ![MFCC CM](.image/CM-MFCC-ViT.png) |
+| ![Mel CM](image/CM-Mel-ViT.png) | ![MFCC CM](image/CM-MFCC-ViT.png) |
 
 > ✅ Metal and Classical were classified really well  
 > ⚠️ Some confusion between Rock vs Country, and Pop vs Disco
@@ -72,5 +72,5 @@ We converted each song into **two types of images**:
 Accuracy & Loss 
 | Mel-Spectrogram | MFCC |
 |------------------|
-| ![Training Graph](.image/Mel-ViT.png) | ![Training Graph](.image/Mel-ViT.png)|
+| ![Training Graph](image/Mel-ViT.png) | ![Training Graph](image/Mel-ViT.png)|
 
